@@ -1,0 +1,6 @@
+[package]
+name = "fasttyping"
+version = "0.1.0"
+authors = ["Ivan Filipović <ivan.filipovic.fila@gmail.com>"]
+
+[dependencies]
